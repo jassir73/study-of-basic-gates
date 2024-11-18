@@ -63,6 +63,7 @@ Y= A⊕B
 
 
 **PROGRAM**
+![WhatsApp Image 2024-11-18 at 11 45 25_fcaa642f](https://github.com/user-attachments/assets/f10e9e3e-ffeb-4d33-ad57-dec79a550b1a)
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
