@@ -1,4 +1,7 @@
-### study-of-basic-gates
+# EXP1:Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
+## NAME:JASSIR SULTHAN K
+## REGISTRATION NUMBER:24901084
+
 
 **AIM:** 
 
@@ -70,11 +73,14 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+![BASIC LOGIC TABLE](https://github.com/user-attachments/assets/f33dc716-a534-4ab0-a482-bf5a8a8833e9)
 
 **RTL realization Output:** 
+![BASIC LOGIC CODE](https://github.com/user-attachments/assets/45704766-c8ee-4e87-8c96-28f5db7a5ab8)
+![BASIC LOGIC DIAGRAM](https://github.com/user-attachments/assets/a3925908-f091-4aa6-a8c8-c45cb5c06710)
 
-**RTL**
 
 **Result:**
+![BASIC LOGIC WAVEFORM](https://github.com/user-attachments/assets/342b7291-0ba8-4633-9349-40ba7f64a0ca)
 
 
