@@ -72,6 +72,7 @@ Y= A⊕B
  
  
 **Logic symbol & Truthtable**
+
 ![BASIC LOGIC TABLE](https://github.com/user-attachments/assets/f33dc716-a534-4ab0-a482-bf5a8a8833e9)
 ![Screenshot 2024-12-19 at 14 38 15_7780fa20](https://github.com/user-attachments/assets/5209851e-fd75-472b-aaad-6a7902414c81)
 
